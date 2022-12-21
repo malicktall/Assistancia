@@ -1,0 +1,75 @@
+
+/* body{
+    background: url('3.jpg');
+} */
+
+.connexion{
+    background: url('2.jpg') no-repeat;
+    background-size: cover;
+
+    height: 80vh;
+}
+
+.boite-connexion{
+
+    height: 80vh;
+    /* display: flex; */
+    /* flex-wrap: nowrap; */
+    align-items: center;
+    padding-top: 120px;
+    /* width: 600px; */
+    /* background-color: red; */
+}
+
+
+.text-landing{
+
+    padding-top: 50px;
+    color: whitesmoke;
+
+}
+footer{
+    padding: 30px;
+}
+/* .top-page{
+    height: 90vh;
+} */
+
+.register{
+    padding-top: 50px;
+}
+.form-control{
+    background: none;
+    color: white;
+}
+label{
+    color: aliceblue;
+}
+
+
+.form-control:hover{
+    background: none;
+    color: white;
+    /* width: 400px; */
+}
+.form-control:after{
+    background: none;
+}
+button[type="submit"]{
+    background: rgb(73, 136, 73);
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 100px;
+    border: 1px solid rgb(73, 136, 73);
+}
+
+.create{
+    margin-top: 100px;
+
+    height: 60vh;
+}
+
+.create-button{
+    margin-top: 150px;
+}
+
